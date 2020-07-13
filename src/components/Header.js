@@ -10,9 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Oasis DayZ</h1>
         <p>
-          A DayZ standalone server focusing on offering the highest quality modded DayZ content!{' '}
-         <br>
-         <a href="https://html5up.net">Join our discord here</a>
+          A DayZ standalone server focusing on offering the highest quality modded DayZ content!
         </p>
       </div>
     </div>
